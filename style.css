@@ -2,3 +2,9 @@ body {
     background-image: url('fundo.png');
     cursor: url('normal.cur'), auto;
 }
+
+.card {
+    widht: 100px;
+    height: 100px;
+    background-color: #202020;
+}
